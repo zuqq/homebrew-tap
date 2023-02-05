@@ -1,8 +1,8 @@
 class Switcheroo < Formula
   desc "Automatically switch keyboard layout and natural scrolling settings when input devices are connected and disconnected."
   homepage "https://github.com/zuqq/switcheroo"
-  url "https://github.com/zuqq/switcheroo/archive/0.1.0.tar.gz"
-  sha256 "8a2044c8a3ee18b3f405320f390b46f00b98a14b46386ea4e2a29fdf13cb5b88"
+  url "https://github.com/zuqq/switcheroo/archive/0.2.0.tar.gz"
+  sha256 "dabebf4b44c759439929542d6f7eecc2a433823e2bc9020693430fdcfffaf397"
   depends_on :xcode
 
   def install
